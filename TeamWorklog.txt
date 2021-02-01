@@ -1,0 +1,29 @@
+Week of October 25:
+* Team started work on project
+* Team meeting for 1 hour to assign individual tasks and setup source control
+ - Thomas's task:
+   * Create skeleton of java application
+   * Connect with MySQL server
+ - Andrew's task:
+   * Create relational scheme MySQL
+   * Load in the data from the csv
+   * Create queries for extra credit
+Week of November 1:
+* Team continues working on project
+* Team met for 30 minutes to check on status.
+* Team will continue working on last weeks tasks.
+Week of November 8:
+* Team met for 30 minutes to check on status.
+ - Thomas's task:
+  * Q7, Q16, Q23, D
+  * Continue work on java app
+ - Andrew's task:
+  * Q3, Q9, Q18, I
+Week of November 15:
+* Team met for 1 hour to try and fix some MySQL errors.
+* Team met for 1 hour to fix queries and to check on status.
+ - Thomas's task:
+  * Complete Java application
+ - Andrew's task:
+  * Complete query optimization
+* Team met for 30 minutes to check on progress before final day of work

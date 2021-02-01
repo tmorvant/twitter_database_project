@@ -1,0 +1,10 @@
+Week of 10/25
+ * Create java project to connect to database
+Week of 11/1
+ * Configured project (30 min)
+ * Connected project to database (30 min)
+ * Created skeleton for java project set up (30 min) 
+Week of 11/8
+ * Work on queries (2hr)
+Week of 11/15
+ * Create java application (4 hrs)
